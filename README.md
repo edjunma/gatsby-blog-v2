@@ -8,11 +8,6 @@
   Gatsby Blog Tutorial
 </h1>
 
-This is the complete code for the Gatsby tutorial I published on my Youtube channel
-[Classsed](https://www.youtube.com/channel/UC2-slOJImuSc20Drbf88qvg)
-
-Full tutorial series: https://www.youtube.com/watch?v=lvq2nc3WkZU&list=PLMhAeHCz8S3_x-jXerCYnl7jftCSxQkPV
-
 ## Guide
 
 1.  **Clone/Download the code from this repo**
@@ -45,5 +40,4 @@ Full tutorial series: https://www.youtube.com/watch?v=lvq2nc3WkZU&list=PLMhAeHCz
 
 ## Deployed instance
 
-https://cocky-elion-477c3b.netlify.com/
 
