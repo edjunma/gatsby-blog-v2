@@ -1,9 +1,8 @@
 const authors = [
   {
-    name: 'John Doe',
+    name: 'Edmond Ma',
     imageUrl: 'john.jpg',
-    bio:
-      'John has been a front-end and UI designer fpr over 10 years, he is a brilliant artist',
+    bio: 'Edmond is a Front-End Developer',
     facebook: 'https://www.facebook.com/',
     twitter: 'https://www.twitter.com/',
     instagram: 'https://www.instagram.com/',
@@ -11,10 +10,9 @@ const authors = [
     linkedin: 'https://www.linkedin.com/',
   },
   {
-    name: 'Jane Doe',
+    name: 'Jay Chen',
     imageUrl: 'jane.jpg',
-    bio:
-      'Jane is a back-end developer, she specializes in security and her favourite stack is the MERN stack',
+    bio: 'Jay is a Cyber-Security professional',
     facebook: 'https://www.facebook.com/',
     twitter: 'https://www.twitter.com/',
     instagram: 'https://www.instagram.com/',
