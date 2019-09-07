@@ -40,4 +40,5 @@
 
 ## Deployed instance
 
+https://ejm-gatsby-dev-blog.netlify.com/
 
