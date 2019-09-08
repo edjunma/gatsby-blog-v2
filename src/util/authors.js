@@ -19,6 +19,16 @@ const authors = [
     google: 'https://www.google.com/',
     linkedin: 'https://www.linkedin.com/',
   },
+  {
+    name: 'Norman Lei',
+    imageUrl: 'norman.jpg',
+    bio: 'Norman is a back-end imbedded software engineer',
+    facebook: 'https://www.facebook.com/',
+    twitter: 'https://www.twitter.com/',
+    instagram: 'https://www.instagram.com/',
+    google: 'https://www.google.com/',
+    linkedin: 'https://www.linkedin.com/',
+  },
 ]
 
 module.exports = authors

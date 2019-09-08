@@ -5,6 +5,7 @@ import authors from '../util/authors'
 import { Button, Card, CardText, CardBody, CardTitle, Row } from 'reactstrap'
 import EdmondImage from '../images/edmond.jpg'
 import JayImage from '../images/jay.jpg'
+import NormanImage from '../images/norman.jpg'
 import { slugify } from '../util/utilityFunctions'
 
 const TeamPage = () => (
@@ -47,6 +48,30 @@ const TeamPage = () => (
               className="text-uppercase"
               color="primary"
               href={`/author/${slugify(authors[1].name)}`}
+            >
+              View posts
+            </Button>
+          </CardBody>
+        </Card>
+      </div>
+    </Row>
+    <Row className="mb-4">
+      <div className="col-md-3">
+        <img
+          src={NormanImage}
+          style={{ maxWidth: '100%' }}
+          alt="Norman profile"
+        />
+      </div>
+      <div className="col-md-8">
+        <Card style={{ minHeight: '100%' }}>
+          <CardBody>
+            <CardTitle>{authors[2].name}</CardTitle>
+            <CardText>{authors[2].bio}</CardText>
+            <Button
+              className="text-uppercase"
+              color="primary"
+              href={`/author/${slugify(authors[2].name)}`}
             >
               View posts
             </Button>
