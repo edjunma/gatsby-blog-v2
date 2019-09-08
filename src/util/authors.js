@@ -1,7 +1,7 @@
 const authors = [
   {
     name: 'Edmond Ma',
-    imageUrl: 'john.jpg',
+    imageUrl: 'edmond.jpg',
     bio: 'Edmond is a Front-End Developer',
     facebook: 'https://www.facebook.com/',
     twitter: 'https://www.twitter.com/',
@@ -11,7 +11,7 @@ const authors = [
   },
   {
     name: 'Jay Chen',
-    imageUrl: 'jane.jpg',
+    imageUrl: 'jay.jpg',
     bio: 'Jay is a Cyber-Security professional',
     facebook: 'https://www.facebook.com/',
     twitter: 'https://www.twitter.com/',
