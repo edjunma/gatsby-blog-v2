@@ -2,7 +2,7 @@
 title: 'My Experience Becoming a Web Developer'
 date: 2019-09-09 12:48:00
 author: 'Edmond Ma'
-image: ../../images/intro.jpg
+image: ../../images/sixth-why.jpg
 tags:
   - code
 ---
