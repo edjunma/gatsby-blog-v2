@@ -2,7 +2,7 @@ const authors = [
   {
     name: 'Edmond Ma',
     imageUrl: 'edmond.jpg',
-    bio: 'Edmond is a Front-End Developer',
+    bio: 'Edmond is a Front-End Web Developer',
     facebook: 'https://www.facebook.com/',
     twitter: 'https://www.twitter.com/',
     instagram: 'https://www.instagram.com/',
@@ -22,7 +22,7 @@ const authors = [
   {
     name: 'Norman Lei',
     imageUrl: 'norman.jpg',
-    bio: 'Norman is a back-end imbedded software engineer',
+    bio: 'Norman is a Embedded Software Engineer',
     facebook: 'https://www.facebook.com/',
     twitter: 'https://www.twitter.com/',
     instagram: 'https://www.instagram.com/',
