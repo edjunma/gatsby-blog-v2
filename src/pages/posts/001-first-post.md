@@ -7,6 +7,12 @@ tags:
   - code
 ---
 
+<br>
+
+#Why I Started To Blog
+
+<br>
+
 Hello everyone, if you are reading this.. you are awesome and blessed 🙏 . I honestly didn’t know if anyone would read this at all at the time I’m writing this. So a high-five to you and this is one of the first posts that I will be making on this blog, no draft, no edits, just me typing away and being real with you guys.
 
 So I started this blog because honestly, I’ve always wanted to start one or something similar at least. I’ve never had a place where I am able to document my thought processes, life moments, the things I’ve learned, seen, loved, hated, never really had a channel like that for me. Never had a diary, Tumblr or Pinterest, and the closest thing to a blog I’ve used would be Facebook, Twitter, and even older, MySpace. While on my journey to becoming a web developer, a lot of resources like Dev.to, Medium, and other developers mentioned that having a blog to document your process is extremely beneficial to both yourself and to your career, so I decided to take the leap of faith and do it.
