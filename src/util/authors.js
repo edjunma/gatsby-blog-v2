@@ -4,10 +4,10 @@ const authors = [
     imageUrl: 'edmond.jpg',
     bio: 'Edmond is a Front-End Web Developer',
     facebook: 'https://www.facebook.com/',
-    twitter: 'https://www.twitter.com/',
-    instagram: 'https://www.instagram.com/',
+    twitter: 'https://www.twitter.com/edjunma',
+    instagram: 'https://www.instagram.com/edjunma.dev',
     google: 'https://www.google.com/',
-    linkedin: 'https://www.linkedin.com/',
+    linkedin: 'https://www.linkedin.com/in/edjunma',
   },
   {
     name: 'Jay Chen',
