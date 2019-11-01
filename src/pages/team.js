@@ -31,6 +31,14 @@ const TeamPage = () => (
             >
               View posts
             </Button>
+            <Button
+              style={{ margin: '15px' }}
+              className="text-uppercase"
+              color="secondary"
+              href="https://edjunma.dev"
+            >
+              View Website
+            </Button>
           </CardBody>
         </Card>
       </div>
@@ -50,6 +58,14 @@ const TeamPage = () => (
               href={`/author/${slugify(authors[1].name)}`}
             >
               View posts
+            </Button>
+            <Button
+              style={{ margin: '15px' }}
+              className="text-uppercase"
+              color="secondary"
+              href="https://jaychen.dev"
+            >
+              View Website
             </Button>
           </CardBody>
         </Card>
@@ -74,6 +90,14 @@ const TeamPage = () => (
               href={`/author/${slugify(authors[2].name)}`}
             >
               View posts
+            </Button>
+            <Button
+              style={{ margin: '15px' }}
+              className="text-uppercase"
+              color="secondary"
+              href="https://www.linkedin.com/in/leinorman/"
+            >
+              View Website
             </Button>
           </CardBody>
         </Card>
