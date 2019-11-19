@@ -5,6 +5,8 @@ author: 'Edmond Ma'
 image: ../../images/006-why-i-developer.jpg
 tags:
   - code
+  - career
+  - webdev
 ---
 
 <br>
