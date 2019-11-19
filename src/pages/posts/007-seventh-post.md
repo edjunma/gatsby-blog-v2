@@ -5,6 +5,11 @@ author: 'Edmond Ma'
 image: ../../images/007-algoexpert-review.jpg
 tags:
   - code
+  - career
+  - data structures
+  - algorithms
+  - algoexpert
+  - review
 ---
 
 <br>
